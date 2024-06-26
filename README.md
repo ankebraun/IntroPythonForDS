@@ -3,6 +3,8 @@ THIS LINE HAS CHANGED!!!!
 # Intro to Python For Data Science
 #bla
 
+This repo is a test
+
 ## Intro in English
 This big repo contains the teaching material for the Introduction to Python (and useful libraries) masterclass at the [Data Science Retreat](http://datascienceretreat.com/), it does not cover Pandas.
 
